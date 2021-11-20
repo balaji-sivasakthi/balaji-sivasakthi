@@ -117,9 +117,6 @@ CSS                      3 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/balaji-sivasakthi/balaji-sivasakthi/master/charts/bar_graph.png) 
 
 
  Last Updated on 20/11/2021
