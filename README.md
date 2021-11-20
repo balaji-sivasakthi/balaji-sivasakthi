@@ -12,9 +12,9 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx balaji-sivasakthi
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/balaji-sivasakthi/npx_card)**
+**👆 This command line tool can be found at [npx balaji-sivasakthi](https://github.com/balaji-sivasakthi/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
