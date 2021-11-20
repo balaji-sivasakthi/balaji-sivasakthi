@@ -1,4 +1,4 @@
-<h2>(Namaste)🙏🏻, I'm Balaji Sivasakthi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>(Vanakam)🙏🏻, I'm Balaji Sivasakthi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Founder & CEO at <a href="http://www.latrosoft.in">Latrosoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
