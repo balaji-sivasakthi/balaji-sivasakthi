@@ -49,9 +49,7 @@ const balaji = {
 | ![Balaji's github stats](https://github-readme-stats.vercel.app/api?username=balaji-sivasakthi&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)      | [![Balaji's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-sivasakthi&layout=compact&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://github.com/balaji-sivasakthi?tab=repositories) | [![Balaji's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balaji-sivasakthi&theme=dark&background=2D2D2D&currStreakLabel=74ff0a&ring=74ff0a&fire=74ff0a&sideLabels=74ff0a)](https://github.com/balaji-sivasakthi?tab=repositories) |
 
 
-![Balaji's Profile Views](https://komarev.com/ghpvc/?username=balaji-sivasakthi&color=74ff0a)
 
-
- Last Updated on 20/11/2021
+ Last Updated on 09/02/2022
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
