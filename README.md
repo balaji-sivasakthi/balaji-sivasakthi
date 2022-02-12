@@ -14,7 +14,7 @@
 ```bash
 npm i balaji-sivasakthi
 ```
-**👆 This command line tool can be found at [npx balaji-sivasakthi](https://github.com/balaji-sivasakthi/npx_card)**
+**👆 This command line tool can be found at [npm i balaji-sivasakthi](https://github.com/balaji-sivasakthi/npm-balaji-sivasakthi)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
