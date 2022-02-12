@@ -12,7 +12,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx balaji-sivasakthi
+npm i balaji-sivasakthi
 ```
 **👆 This command line tool can be found at [npx balaji-sivasakthi](https://github.com/balaji-sivasakthi/npx_card)**
 
