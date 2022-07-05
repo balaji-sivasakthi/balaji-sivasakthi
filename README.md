@@ -25,9 +25,7 @@ const balaji = {
     askMeAbout: ["web dev", "tech", "app dev", "ui/ux"],
     technologies: {
         frontEnd:{
-        js:["Reactjs","Nextjs"],
-        dart:["flutter"],
-        java:["swing"]
+            js:["Reactjs","Nextjs"],
         },
         backEnd: {
             js: ["Node", "Fastify", "Express", "SuiteScript"],
