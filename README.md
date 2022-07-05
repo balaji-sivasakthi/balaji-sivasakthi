@@ -22,20 +22,25 @@ npm i balaji-sivasakthi
 const balaji = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev", "ui/ux"],
     technologies: {
+        frontEnd:{
+        js:["Reactjs","Nextjs"],
+        dart:["flutter"],
+        java:["swing"]
+        },
         backEnd: {
             js: ["Node", "Fastify", "Express", "SuiteScript"],
         },
         mobileApp: {
             native: ["Android Development", "IOS Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳","Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Full Stack Web Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -49,6 +54,6 @@ const balaji = {
 | ![Balaji's github stats](https://github-readme-stats.vercel.app/api?username=balaji-sivasakthi&show_icons=true&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D) | [![Balaji's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-sivasakthi&layout=compact&title_color=74ff0a&icon_color=74ff0a&text_color=9f9f9f&bg_color=2D2D2D)](https://github.com/balaji-sivasakthi?tab=repositories) | [![Balaji's Streak](https://github-readme-streak-stats.herokuapp.com?user=balaji-sivasakthi&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=74FF0A&background=2D2D2D&currStreakLabel=74FF0A&fire=74FF0A&sideLabels=74FF0A)](https://git.io/streak-stats) |
 
 
-Last Updated on 12/02/2022
+Last Updated on 06/07/2022
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
