@@ -21,21 +21,21 @@ npm i balaji-sivasakthi
 ```javascript
 const balaji = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "ui/ux"],
+    code: ["Javascript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd:{
-            js:["Reactjs","Nextjs"],
+            js:["Reactjs", "Nextjs"],
         },
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node", "Express"],
         },
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳","Nginx"],
+        devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Full Stack Web Development",
