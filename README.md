@@ -14,7 +14,7 @@
 
 💬 Let's connect! Feel free to reach out for discussions, collaborations, or sponsorships.
 
-📫 How to reach me: |[LinkedIn](https://www.linkedin.com/in/balajisivasakthi/) | [Twitter](https://twitter.com/balaji_jpeg)
+📫 How to reach me: | [LinkedIn](https://www.linkedin.com/in/balajisivasakthi/) | [Twitter](https://twitter.com/balaji_jpeg)
 
 ⚡ Fun fact: I enjoy attending tech conferences and meetups to expand my knowledge and network.
 
