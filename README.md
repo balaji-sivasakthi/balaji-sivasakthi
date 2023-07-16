@@ -1,25 +1,8 @@
-### Hi there, I'm Balaji Sivasakthi! 👋
+<p align=”center”>
 
-🚀 Full-stack developer | Admin dashboard specialist | Clean code advocate
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
-🔭 I'm currently working on building scalable web applications using Material UI and Redux.
-
-💡 Passionate about writing quality code and solving complex problems with innovative solutions.
-
-🌱 Constantly learning and staying up-to-date with the latest technologies and industry trends.
-
-💻 Open-source enthusiast and contributor, sharing my knowledge with the developer community.
-
-👯 Looking for exciting opportunities to collaborate and grow as a developer.
-
-💬 Let's connect! Feel free to reach out for discussions, collaborations, or sponsorships.
-
-📫 How to reach me: | [LinkedIn](https://www.linkedin.com/in/balajisivasakthi/) | [Twitter](https://twitter.com/balaji_jpeg)
-
-⚡ Fun fact: I enjoy attending tech conferences and meetups to expand my knowledge and network.
-
-🙏 Thank you for visiting my GitHub profile and considering sponsorship!
-
+</p>
 
 |  Stats      | Langs           | Streak  |
 |:-------------:|:-------------:|:-----:|
