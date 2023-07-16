@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://github.com/balaji-sivasakthi/balaji-sivasakthi/blob/9bba0ad365068b01b9cff1ac8ab10bf8640eec73/mybanner.png" alt="my banner">
+<img width="200" height="200" src="https://github.com/balaji-sivasakthi/balaji-sivasakthi/blob/313203d68e9f3da5544605ae80014b3120d87797/mybanner.png" alt="my banner">
 </p>
 
 |  Stats      | Langs           | Streak  |
