@@ -3,4 +3,6 @@ As a software engineer, I specialize in crafting web, mobile, and desktop applic
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=balaji-sivasakthi.balaji-sivasakthi) 
 
+[Kyro Stats](https://github.com/balaji-kyro)
+
 ## [Get Connect with Me 🚀](https://linktr.ee/BalaG)
