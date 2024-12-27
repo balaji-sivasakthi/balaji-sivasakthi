@@ -1,7 +1,7 @@
 # Hey 👋
 As a software engineer, I specialize in crafting web, mobile, and desktop applications. I have a passion for coding and enjoy expressing my skills through contributions to open source projects.
 
-[Kyro Stats](https://github.com/balaji-kyro)
+[KYRO SAAS](https://github.com/balaji-kyro)
 
 ## [Get Connect with Me 🚀](https://linktr.ee/BalaG)
 
