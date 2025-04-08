@@ -1,9 +1,10 @@
 ## Hey 👋 
-I’m a software engineer who vibes with building dope stuff — web, mobile, desktop apps, all of it. I’m all about clean code, smooth UX, and features that actually slap.
+I’m a software engineer by day, bug whisperer by night, and full-time wizard of screens. I build cool stuff — web, mobile, desktop — if it runs on electrons, I’m probably poking it with code.
 
-Right now, I’m crafting cool things @ [KYRO SAAS](https://github.com/balaji-kyro) and living that open source life 
+Currently slinging spicy features @ KYRO SAAS. Clean code? Like a fresh VSCode window. Slick UX? Smoother than a scroll on 120Hz. Features that slap harder than a hotfix on prod? Every. Single. Time.
 
-Currently geeking out on **graphics programming** — shaders, pixels, rendering magic 🔮
+I live that open source life because why hoard cool ideas when you can flex 'em in public?
+Lately geeking out in the graphics dungeon — shaders, pixels, and GPU sorcery. Basically casting spells in GLSL and hoping my laptop doesn’t ascend into smoke. 🔮✨
 
 **Specially obsessed with:**  
 
