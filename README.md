@@ -2,7 +2,7 @@
 
 I’m a **software engineer by day**, **bug whisperer by night**, and **full-time wizard of screens**. I build cool stuff — web, mobile, desktop — if it runs on electrons, I’m probably poking it with code.
 
-Currently **slinging spicy features** @ **KYRO SAAS**.  
+Currently **slinging spicy features**  @ [KYRO SAAS](https://github.com/balaji-kyro)  
 **Clean code?** Like a fresh VSCode window.  
 **Slick UX?** Smoother than a scroll on 120Hz.  
 **Features that slap harder than a hotfix on prod?** Every. Single. Time.
