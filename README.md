@@ -3,6 +3,8 @@ I’m a software engineer who vibes with building dope stuff — web, mobile, de
 
 Right now, I’m crafting cool things @ [KYRO SAAS](https://github.com/balaji-kyro) and living that open source life 
 
+Currently geeking out on **graphics programming** — shaders, pixels, rendering magic 🔮
+
 **Specially obsessed with:**  
 
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
