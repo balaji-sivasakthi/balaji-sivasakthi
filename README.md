@@ -7,14 +7,6 @@ And yes, dark mode is mandatory.
 
 Currently **slinging spicy features** @ [KYRO SAAS](https://github.com/balaji-kyro).
 
-_Clean code? Like a fresh VSCode window.  
-Slick UX? Smoother than a scroll on 120Hz.  
-Features that slap harder than a hotfix in prod? Every. Single. Time._
-
-I live that open source life — because why hoard cool ideas when you can **flex ’em in public?**  
-Lately geeking out in the graphics dungeon — shaders, pixels, and GPU sorcery.  
-Basically casting spells in GLSL and hoping my laptop doesn’t ascend into smoke. 🔮
-
 ---
 
 **Currently obsessed with:**  
