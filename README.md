@@ -1,11 +1,8 @@
+23 y/o software engineer, building cool stuff at a US-based startup since ‘24.
+Curiosity is my fuel — I ask questions from atoms to aliens.
+STEM is my playground, code is my tool.
 
-## Hey 👋  
-
-I’m a software engineer by day, bug whisperer by night, and full-time wizard of screens.  
-Whether it runs in a browser, lives in your pocket, or chills on your desktop — I’m probably building it.  
-And yes, dark mode is mandatory.
-
-Currently **slinging spicy features** @ [KYRO SAAS](https://github.com/balaji-kyro).
+day in life of me @ [KYRO](https://github.com/balaji-kyro).
 
 ---
 
