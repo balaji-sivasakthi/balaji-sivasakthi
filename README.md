@@ -1,4 +1,4 @@
-23 y/o software engineer, building cool stuff at a US-based startup since ‘24.
+23 y/o software engineer, building cool stuff at kyro.
 Curiosity is my fuel — I ask questions from atoms to aliens.
 STEM is my playground, code is my tool.
 
